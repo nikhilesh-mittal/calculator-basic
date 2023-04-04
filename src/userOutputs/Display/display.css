@@ -1,0 +1,15 @@
+.displayBase {
+    border: 1px solid black;
+    padding: 16px;
+    font-size: 18px;
+    width: calc(100% - 34px);
+    text-align: right;
+    background-color: #f0f0f0;
+    color: black;
+}
+
+.displayBase-dark {
+    border-color: white;
+    color: white;
+    background-color: #666;
+}

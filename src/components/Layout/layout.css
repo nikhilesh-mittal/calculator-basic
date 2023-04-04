@@ -1,0 +1,11 @@
+.layout-container {
+    margin: 32px auto;
+    width: 60%;
+    height: 100%;
+    padding: 32px;
+    background-color: white;
+}
+
+.layout-dark {
+    background-color: black;
+}

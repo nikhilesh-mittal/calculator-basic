@@ -1,0 +1,15 @@
+.settings-container {
+    width: 100%;
+    padding: 16px 8px;
+    display: flex;
+}
+
+.toggle-container {
+    width: 50%;
+    text-align: left;
+}
+
+.theme-container {
+    text-align: right;
+    margin-right: 64px;
+}

@@ -1,0 +1,14 @@
+.calc-container {
+    display: block;
+    width: 100%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.calc-container-dark {
+    border-color: white;
+}
+
+.rowContainer {
+    display: block;
+}

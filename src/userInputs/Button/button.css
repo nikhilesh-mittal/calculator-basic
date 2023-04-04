@@ -1,0 +1,26 @@
+.base {
+    text-align: center;
+    font-size: 18px;
+    padding: 16px;
+    border: 1px solid black;
+    outline: none;
+    color: black;
+    background: #f0f0f0;
+    display: inline-block;
+}
+
+.base:active {
+    background: #666;
+    color: white;
+}
+
+.base-dark {
+    border: 1px solid white;
+    background-color: #666;
+    color: white;
+}
+
+.base-dark:active {
+    background: #f0f0f0;
+    color: black;
+}
